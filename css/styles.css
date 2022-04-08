@@ -11433,3 +11433,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.card img {
+  max-width: 300px;
+  max-height: 200px;
+  min-height: 200px;
+  
+}
